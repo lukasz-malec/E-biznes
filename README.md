@@ -3,8 +3,8 @@
 Zadanie 1 Docker
  
 :white_check_mark: 3.0 obraz ubuntu z Pythonem w wersji 3.10 </br>
- [Link do commita ](https://github.com/lukasz-malec/E-biznes/commit/67c0c9e0842e71619dbe89cf70901f5cc308c453) </br>
- [Link do dockerhub](https://hub.docker.com/repository/docker/lukasz493/zad1_3.0/general)</br>
+[Link do commita ](https://github.com/lukasz-malec/E-biznes/commit/67c0c9e0842e71619dbe89cf70901f5cc308c453) </br>
+ [Link do obrazu](https://hub.docker.com/repository/docker/lukasz493/zad1_3.0/general)</br></br>
 3.5 obraz ubuntu:24.02 z Javą w wersji 8 oraz Kotlinem </br>
 4.0 do powyższego należy dodać najnowszego Gradle’a oraz paczkę JDBC 
 SQLite w ramach projektu na Gradle (build.gradle) </br>
