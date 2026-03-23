@@ -14,8 +14,11 @@ SQLite w ramach projektu na Gradle (build.gradle) </br>
 [Link do commita ](https://github.com/lukasz-malec/E-biznes/commit/3e7d8b4792251b93a880a47d6f865f274d0e8c44) </br>
 [Link do obrazu](https://hub.docker.com/repository/docker/lukasz493/zada1_4.0/general)</br>
 
-4.5 stworzyć przykład typu HelloWorld oraz uruchomienie aplikacji
+:white_check_mark: 4.5 stworzyć przykład typu HelloWorld oraz uruchomienie aplikacji
 przez CMD oraz gradle </br>
+[Link do commita ](https://github.com/lukasz-malec/E-biznes/commit/adf0bd5457fcc841ba6430bfbd3e7a464e468557) </br>
+[Link do obrazu](https://hub.docker.com/repository/docker/lukasz493/zad1_4.5/general)</br>
+
 5.0 dodać konfigurację docker-compose
 
 Termin: 25.03
