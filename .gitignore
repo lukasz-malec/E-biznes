@@ -1,0 +1,18 @@
+build
+.gradle
+
+target/
+project/target/
+.idea/
+.vscode/
+*.iml
+*.log
+
+# SBT
+dist/
+lib_managed/
+src_managed/
+.cache/
+
+metals.lock.db
+metals.mv.db

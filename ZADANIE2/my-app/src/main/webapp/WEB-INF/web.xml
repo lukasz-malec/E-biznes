@@ -1,0 +1,8 @@
+<web-app xmlns="https://jakarta.ee/xml/ns/jakartaee"
+         version="5.0">
+
+  <listener>
+    <listener-class>org.scalatra.servlet.ScalatraListener</listener-class>
+  </listener>
+
+</web-app>
