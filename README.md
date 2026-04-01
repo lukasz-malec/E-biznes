@@ -32,10 +32,11 @@ Należy stworzyć aplikację na frameworku Play lub Scalatra.
 :white_check_mark:3.0 Należy stworzyć kontroler do Produktów </br>
 [Link do commita ](https://github.com/lukasz-malec/E-biznes/commit/9bedb567429ba1deda34687da44ddd93b7e28aca) </br></br>
 
-3.5 Do kontrolera należy stworzyć endpointy zgodnie z CRUD - dane
+:white_check_mark:3.5 Do kontrolera należy stworzyć endpointy zgodnie z CRUD - dane
 pobierane z listy
+[Link do commita ](https://github.com/lukasz-malec/E-biznes/commit/806bea2ff50d8b90c8e2ce3856bc693d3095c1b5) </br></br>
 
-</br></br>
+
 4.0 Należy stworzyć kontrolery do Kategorii oraz Koszyka + endpointy
 zgodnie z CRUD
 
