@@ -38,7 +38,7 @@ pobierane z listy
 
 ❌4.0 Należy stworzyć kontrolery do Kategorii oraz Koszyka + endpointy
 zgodnie z CRUD
-</br>
+</br></br>
 ❌4.5 Należy aplikację uruchomić na dockerze (stworzyć obraz) oraz dodać
 skrypt uruchamiający aplikację via ngrok</br>
 ❌5.0 Należy dodać konfigurację CORS dla dwóch hostów dla metod CRUD
