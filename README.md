@@ -55,7 +55,7 @@ Zadanie 3 Kotlin
 
 :white_check_mark:3.0 Należy stworzyć aplikację kliencką w Kotlinie we frameworku Ktor,
 która pozwala na przesyłanie wiadomości na platformę Discord</br>
-[Link do commita ]() </br>
+[Link do commita ](https://github.com/lukasz-malec/E-biznes/commit/2708fd07b365b7a7fddc1191086a4e13b8bcf11f) </br>
 
 ❌3.5 Aplikacja jest w stanie odbierać wiadomości użytkowników z
 platformy Discord skierowane do aplikacji (bota)</br></br>
@@ -70,4 +70,4 @@ Aplikację należy uruchomić na dockerze.
 
 Termin: 8.04
 
-Demo: [Link do nagrania]()
+Demo: [Link do nagrania](https://github.com/lukasz-malec/E-biznes/tree/main/ZADANIE3/nagranie)
