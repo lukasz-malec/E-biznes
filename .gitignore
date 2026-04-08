@@ -1,6 +1,9 @@
 build
 .gradle
 
+bin
+.env
+
 target/
 project/target/
 .idea/
@@ -16,3 +19,5 @@ src_managed/
 
 metals.lock.db
 metals.mv.db
+.metals
+.scala-build

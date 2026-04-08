@@ -48,3 +48,26 @@ show by id (get), update (put), delete (delete), add (post).
 
 
 Demo: [Link do nagrania](https://github.com/lukasz-malec/E-biznes/blob/main/ZADANIE2/scala_nagranie.mp4)
+
+##
+
+Zadanie 3 Kotlin
+
+:white_check_mark:3.0 Należy stworzyć aplikację kliencką w Kotlinie we frameworku Ktor,
+która pozwala na przesyłanie wiadomości na platformę Discord</br>
+[Link do commita ]() </br>
+
+❌3.5 Aplikacja jest w stanie odbierać wiadomości użytkowników z
+platformy Discord skierowane do aplikacji (bota)</br></br>
+
+❌4.0 Zwróci listę kategorii na określone żądanie użytkownika</br></br>
+
+❌4.5 Zwróci listę produktów wg żądanej kategorii</br></br>
+
+❌5.0 Aplikacja obsłuży dodatkowo jedną z platform: Slack lub Messenger</br></br>
+
+Aplikację należy uruchomić na dockerze.
+
+Termin: 8.04
+
+Demo: [Link do nagrania]()
