@@ -72,7 +72,9 @@ Termin: 8.04
 
 Demo: [Link do nagrania](https://github.com/lukasz-malec/E-biznes/tree/main/ZADANIE3/nagranie)
 
-##
+## 
+
+Zadanie 4 GO
 
 Należy stworzyć projekt w echo w Go. Należy wykorzystać gorm do
 stworzenia kilka modeli, gdzie pomiędzy dwoma musi być relacja. Należy
