@@ -117,9 +117,7 @@ przesyłane za pomocą React hooks.d
 :white_check_mark:3.0 W ramach projektu należy stworzyć dwa komponenty: Produkty oraz
 Płatności; Płatności powinny wysyłać do aplikacji serwerowej dane, a w
 Produktach powinniśmy pobierać dane o produktach z aplikacji
-serwerowej;
-</br>
-
+serwerowej;</br>
 [Link do commita](https://github.com/lukasz-malec/E-biznes/commit/4a2a4cd107092e0b38e3d6af844d4c46ca92a804)</br>
 
 :white_check_mark: 3.5 Należy dodać Koszyk wraz z widokiem; należy wykorzystać routing </br>
@@ -133,5 +131,5 @@ pomocą React hooks </br>
 kliencką na dockerze via docker-compose </br>
 [Link do commita ](https://github.com/lukasz-malec/E-biznes/commit/76ab195f4f541aaffad0d42c746e7958d182b4b5)</br>
 
-:white_check_mark: 5.0 Należy wykorzystać axios’a oraz dodać nagłówki pod CORS</br></br>
+:white_check_mark: 5.0 Należy wykorzystać axios’a oraz dodać nagłówki pod CORS</br>
 [Link do commita](https://github.com/lukasz-malec/E-biznes/commit/675ab9a9367cc6ce88e33181d0fe79d20d15a541)</br></br>
