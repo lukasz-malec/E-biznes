@@ -82,7 +82,7 @@ zaimplementować proste endpointy do dodawania oraz wyświetlania danych
 za pomocą modeli. Jako bazę danych można wybrać dowolną, sugerowałbym
 jednak pozostać przy sqlite.
 
-:white_check_mark:3.0 Należy stworzyć aplikację we frameworki echo w j. Go, która będzie
+:white_check_mark: 3.0 Należy stworzyć aplikację we frameworki echo w j. Go, która będzie
 miała kontroler Produktów zgodny z CRUD</br>
 [Link do commita ](https://github.com/lukasz-malec/E-biznes/commit/ed416317a840ca164b77f32096bbb01371b47a31) </br>
 
@@ -114,16 +114,24 @@ z aplikacji serwerowej. Aplikacja serwera w jednym z trzech języków:
 Kotlin, Scala, Go. Dane pomiędzy wszystkimi komponentami powinny być
 przesyłane za pomocą React hooks.d
 
-3.0 W ramach projektu należy stworzyć dwa komponenty: Produkty oraz
+:white_check_mark:3.0 W ramach projektu należy stworzyć dwa komponenty: Produkty oraz
 Płatności; Płatności powinny wysyłać do aplikacji serwerowej dane, a w
 Produktach powinniśmy pobierać dane o produktach z aplikacji
 serwerowej;
-</br></br>
-3.5 Należy dodać Koszyk wraz z widokiem; należy wykorzystać routing </br></br>
-4.0 Dane pomiędzy wszystkimi komponentami powinny być przesyłane za
-pomocą React hooks </br></br>
-4.5 Należy dodać skrypt uruchamiający aplikację serwerową oraz
-kliencką na dockerze via docker-compose </br></br>
-5.0 Należy wykorzystać axios’a oraz dodać nagłówki pod CORS</br></br>
+</br>
 
+[Link do commita](https://github.com/lukasz-malec/E-biznes/commit/4a2a4cd107092e0b38e3d6af844d4c46ca92a804)</br>
 
+:white_check_mark: 3.5 Należy dodać Koszyk wraz z widokiem; należy wykorzystać routing </br>
+[Link do commit](https://github.com/lukasz-malec/E-biznes/commit/825cd8fdee1438fee5d5d637851d2390ac28555d)<br>
+
+:white_check_mark: 4.0 Dane pomiędzy wszystkimi komponentami powinny być przesyłane za
+pomocą React hooks </br>
+[Link do commita](https://github.com/lukasz-malec/E-biznes/commit/9efe576e2a6db7f3448b24fde3255035413cdb14)</br>
+
+:white_check_mark: 4.5 Należy dodać skrypt uruchamiający aplikację serwerową oraz
+kliencką na dockerze via docker-compose </br>
+[Link do commita ](https://github.com/lukasz-malec/E-biznes/commit/76ab195f4f541aaffad0d42c746e7958d182b4b5)</br>
+
+:white_check_mark: 5.0 Należy wykorzystać axios’a oraz dodać nagłówki pod CORS</br></br>
+[Link do commita](https://github.com/lukasz-malec/E-biznes/commit/675ab9a9367cc6ce88e33181d0fe79d20d15a541)</br></br>
