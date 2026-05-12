@@ -133,3 +133,5 @@ kliencką na dockerze via docker-compose </br>
 
 :white_check_mark: 5.0 Należy wykorzystać axios’a oraz dodać nagłówki pod CORS</br>
 [Link do commita](https://github.com/lukasz-malec/E-biznes/commit/675ab9a9367cc6ce88e33181d0fe79d20d15a541)</br></br>
+
+[Demo](https://github.com/user-attachments/assets/fe793182-cd06-4d51-a0e2-26193d5cb864)
