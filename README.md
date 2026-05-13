@@ -148,8 +148,9 @@ Testy mają w sumie zawierać minimum 50 asercji (3.5). Mają również
 uruchamiać się na platformie Browserstack (5.0). Proszę pamiętać o
 stworzeniu darmowego konta via https://education.github.com/pack.
 
-❌3.0 Należy stworzyć 20 przypadków testowych w CypressJS lub Selenium
-(Kotlin, Python, Java, JS, Go, Scala)</br></br>
+:white_check_mark: 3.0 Należy stworzyć 20 przypadków testowych w CypressJS lub Selenium
+(Kotlin, Python, Java, JS, Go, Scala)</br>
+[Link do commita ](https://github.com/lukasz-malec/E-biznes/commit/963c06389f53575669c0744494d4cf91e8a03ecb)</br>
 ❌3.5 Należy rozszerzyć testy funkcjonalne, aby zawierały minimum 50
 asercji</br></br>
 ❌4.0 Należy stworzyć testy jednostkowe do wybranego wcześniejszego
