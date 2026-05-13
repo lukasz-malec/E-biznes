@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+
+# folder z screenshotami z testow 
+cypress/screenshots
