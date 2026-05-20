@@ -154,8 +154,9 @@ stworzeniu darmowego konta via https://education.github.com/pack.
 :white_check_mark: 3.5 Należy rozszerzyć testy funkcjonalne, aby zawierały minimum 50
 asercji</br>
 [Link do commita](https://github.com/lukasz-malec/E-biznes/commit/4311754146964860ecda4fcf8d4eccf341e4fb47)</br></br>
-❌4.0 Należy stworzyć testy jednostkowe do wybranego wcześniejszego
-projektu z minimum 50 asercjami</br></br>
+:white_check_mark: 4.0 Należy stworzyć testy jednostkowe do wybranego wcześniejszego
+projektu z minimum 50 asercjami</br>
+[Link do commita](https://github.com/lukasz-malec/E-biznes/commit/30cb3408dcacd6546565a670661ab2ff37bf9581)</br></br>
 ❌4.5 Należy dodać testy API, należy pokryć wszystkie endpointy z
 minimum jednym scenariuszem negatywnym per endpoint</br></br>
 ❌5.0 Należy uruchomić testy funkcjonalne na Browserstacku</br></br>
