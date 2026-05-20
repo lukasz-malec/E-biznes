@@ -44,7 +44,7 @@ function App() {
       </nav>
 
 
-      // routing 
+      
       <Routes>
         <Route path="/" element={<Produkty dodajDoKoszyka={dodajDoKoszyka} />} />
         <Route path="/koszyk" element={<Koszyk koszyk={koszyk} usunZKoszyka={usunZKoszyka} />} />
