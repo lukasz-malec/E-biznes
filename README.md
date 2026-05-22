@@ -157,6 +157,7 @@ asercji</br>
 :white_check_mark: 4.0 Należy stworzyć testy jednostkowe do wybranego wcześniejszego
 projektu z minimum 50 asercjami</br>
 [Link do commita](https://github.com/lukasz-malec/E-biznes/commit/30cb3408dcacd6546565a670661ab2ff37bf9581)</br></br>
-❌4.5 Należy dodać testy API, należy pokryć wszystkie endpointy z
-minimum jednym scenariuszem negatywnym per endpoint</br></br>
+:white_check_mark: 4.5 Należy dodać testy API, należy pokryć wszystkie endpointy z
+minimum jednym scenariuszem negatywnym per endpoint</br>
+[Link do commita](https://github.com/lukasz-malec/E-biznes/commit/7f2c8ee14d8229798e1b9dd611a057705520aff5)</br></br>
 ❌5.0 Należy uruchomić testy funkcjonalne na Browserstacku</br></br>
