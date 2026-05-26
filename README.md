@@ -161,3 +161,27 @@ projektu z minimum 50 asercjami</br>
 minimum jednym scenariuszem negatywnym per endpoint</br>
 [Link do commita](https://github.com/lukasz-malec/E-biznes/commit/7f2c8ee14d8229798e1b9dd611a057705520aff5)</br></br>
 ❌5.0 Należy uruchomić testy funkcjonalne na Browserstacku</br></br>
+
+##
+Zadanie 7
+Należy dodać projekt aplikacji klienckiej oraz serwerowej (jeden
+branch, dwa repozytoria) do Sonara w wersji chmurowej
+(https://sonarcloud.io/). Należy poprawić aplikacje uzyskując 0 bugów,
+0 zapaszków, 0 podatności, 0 błędów bezpieczeństwa. Dodatkowo należy
+dodać widżety sonarowe do README w repozytorium dane projektu z
+wynikami.
+
+3.0 Należy dodać litera do odpowiedniego kodu aplikacji serwerowej w
+hookach gita
+3.5 Należy wyeliminować wszystkie bugi w kodzie w Sonarze (kod
+aplikacji serwerowej)
+4.0 Należy wyeliminować wszystkie zapaszki w kodzie w Sonarze (kod
+aplikacji serwerowej)
+4.5 Należy wyeliminować wszystkie podatności oraz błędy bezpieczeństwa
+w kodzie w Sonarze (kod aplikacji serwerowej)
+5.0 Należy wyeliminować wszystkie błędy oraz zapaszki w kodzie
+aplikacji klienckiej
+
+https://golangci-lint.run/
+https://github.com/pinterest/ktlint
+https://scalameta.org/scalafmt/docs/installation.html
