@@ -163,4 +163,4 @@ minimum jednym scenariuszem negatywnym per endpoint</br>
 :white_check_mark: 5.0 Należy uruchomić testy funkcjonalne na Browserstacku</br
 [Link do commita]()</br></br>
 
-Demo: (https://github.com/user-attachments/assets/07793244-a510-4973-87ed-bf6d23cd937)
+[Demo]:(https://github.com/user-attachments/assets/07793244-a510-4973-87ed-bf6d23cd937)
