@@ -27,3 +27,8 @@ dist-ssr
 
 # folder z screenshotami z testow 
 cypress/screenshots
+
+# pliki od browserstack
+browserstack.json
+/results
+*.txt
