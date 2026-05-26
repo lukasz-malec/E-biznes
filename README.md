@@ -160,6 +160,7 @@ projektu z minimum 50 asercjami</br>
 :white_check_mark: 4.5 Należy dodać testy API, należy pokryć wszystkie endpointy z
 minimum jednym scenariuszem negatywnym per endpoint</br>
 [Link do commita](https://github.com/lukasz-malec/E-biznes/commit/7f2c8ee14d8229798e1b9dd611a057705520aff5)</br></br>
+<<<<<<< HEAD
 ❌5.0 Należy uruchomić testy funkcjonalne na Browserstacku</br></br>
 
 ##
@@ -185,3 +186,12 @@ aplikacji klienckiej
 https://golangci-lint.run/
 https://github.com/pinterest/ktlint
 https://scalameta.org/scalafmt/docs/installation.html
+=======
+:white_check_mark: 5.0 Należy uruchomić testy funkcjonalne na Browserstacku</br>
+
+
+
+https://github.com/user-attachments/assets/350d32d6-afc0-45bd-8ccb-a311519cae52
+
+
+>>>>>>> 3388d996387e258092e3093270594b9a95e497b3
