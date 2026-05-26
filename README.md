@@ -161,5 +161,9 @@ projektu z minimum 50 asercjami</br>
 minimum jednym scenariuszem negatywnym per endpoint</br>
 [Link do commita](https://github.com/lukasz-malec/E-biznes/commit/7f2c8ee14d8229798e1b9dd611a057705520aff5)</br></br>
 :white_check_mark: 5.0 Należy uruchomić testy funkcjonalne na Browserstacku</br>
-[Link do commita]()</br></br>
-[Demo](https://github.com/user-attachments/assets/07793244-a510-4973-87ed-bf6d23cd937)
+
+
+
+https://github.com/user-attachments/assets/350d32d6-afc0-45bd-8ccb-a311519cae52
+
+
