@@ -181,12 +181,15 @@ Repozytoria powstały na bazie zadania 5 (klient oraz serwer):</br>
 :white_check_mark: 3.0 Należy dodać litera do odpowiedniego kodu aplikacji serwerowej w
 hookach gita</br>
 [Link do commita](https://github.com/lukasz-malec/Ebiznes_Serwer/commit/ed50644c33aebd012dd4d6a070471513edbb388c)</br></br>
-❌ 3.5 Należy wyeliminować wszystkie bugi w kodzie w Sonarze (kod
-aplikacji serwerowej)</br></br>
-❌ 4.0 Należy wyeliminować wszystkie zapaszki w kodzie w Sonarze (kod
-aplikacji serwerowej)</br></br>
-❌ 4.5 Należy wyeliminować wszystkie podatności oraz błędy bezpieczeństwa
-w kodzie w Sonarze (kod aplikacji serwerowej) </br></br>
+:white_check_mark: 3.5 Należy wyeliminować wszystkie bugi w kodzie w Sonarze (kod
+aplikacji serwerowej)</br>
+[Link do commita](https://github.com/lukasz-malec/Ebiznes_Serwer/commit/f314f2fabf2b2bc8df31c18712f054a5bb4438f8)</br></br>
+:white_check_mark: 4.0 Należy wyeliminować wszystkie zapaszki w kodzie w Sonarze (kod
+aplikacji serwerowej)</br>
+[Link co commita](https://github.com/lukasz-malec/Ebiznes_Serwer/commit/52df79e0564d751c3d6374940427a8fd17618d92)</br></br>
+:white_check_mark: 4.5 Należy wyeliminować wszystkie podatności oraz błędy bezpieczeństwa
+w kodzie w Sonarze (kod aplikacji serwerowej)</br>
+[Link do commita](https://github.com/lukasz-malec/Ebiznes_Serwer/commit/692f9f030bcc7c5cfb55411aea34472b33ae664f)</br></br>
 ❌ 5.0 Należy wyeliminować wszystkie błędy oraz zapaszki w kodzie
 aplikacji klienckiej</br></br>
 
