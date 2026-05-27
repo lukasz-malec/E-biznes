@@ -41,4 +41,8 @@ func setupRoutes(e *echo.Echo) {
 	api := e.Group("/api")
 	api.GET("/products", controllers.GetProducts)
 	api.POST("/orders", controllers.CreateOrder)
+
+	auth := e.Group("/auth")
+	auth.POST("/register", controllers.Register)
+	auth.POST("/login", controllers.Login)
 }
