@@ -47,7 +47,7 @@ Kontrolery mogą bazować na listach zamiast baz danych. CRUD: show all,
 show by id (get), update (put), delete (delete), add (post).
 
 
-Demo: (https://github.com/user-attachments/assets/4a1977e0-948a-4dcb-bedb-7fc6b2526012)
+https://github.com/user-attachments/assets/4a1977e0-948a-4dcb-bedb-7fc6b2526012
 ##
 
 Zadanie 3 Kotlin
