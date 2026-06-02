@@ -69,7 +69,8 @@ Aplikację należy uruchomić na dockerze.
 
 Termin: 8.04
 
-Demo: [Link do nagrania](https://github.com/lukasz-malec/E-biznes/tree/main/ZADANIE3/nagranie)
+
+https://github.com/user-attachments/assets/679e9378-65ac-4380-a1d4-e3f5df7a7fd7
 
 ## 
 
