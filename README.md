@@ -225,6 +225,7 @@ Klucz należy uzyskać na:
 - https://console.cloud.google.com/apis/dashboard,
 - https://developers.facebook.com/
 
+https://github.com/user-attachments/assets/2a2f88f4-b9fa-4a4b-bee0-1f739ff01e2e
 
 
 
