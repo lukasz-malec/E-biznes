@@ -228,6 +228,7 @@ Klucz należy uzyskać na:
 https://github.com/user-attachments/assets/2a2f88f4-b9fa-4a4b-bee0-1f739ff01e2e
 
 ##
+Zadanie 9
 
 Należy rozszerzyć funkcjonalność wcześniej stworzonego bota. Do niego
 należy stworzyć aplikację frontendową, która połączy się z osobnym
@@ -246,6 +247,8 @@ ograniczenie się jedynie do ubrań oraz samego sklepu) do GPT</br>
 ❌5.0 filtrowanie odpowiedzi po sentymencie</br>
 
 Można wykorzystać lokalny model przez ollama (https://ollama.com/).
-https://github.com/user-attachments/assets/3be04d9f-a9f2-4fb6-ba24-f13841daee12
+
+</br>
+  https://github.com/user-attachments/assets/3be04d9f-a9f2-4fb6-ba24-f13841daee12
 
 
