@@ -227,5 +227,25 @@ Klucz należy uzyskać na:
 
 https://github.com/user-attachments/assets/2a2f88f4-b9fa-4a4b-bee0-1f739ff01e2e
 
+##
+
+Należy rozszerzyć funkcjonalność wcześniej stworzonego bota. Do niego
+należy stworzyć aplikację frontendową, która połączy się z osobnym
+serwisem, który przeanalizuje tekst od użytkownika i prześle zapytanie
+do GPT, a następnie prześle odpowiedź do użytkownika. Cały projekt
+należy stworzyć w Pythonie.
+
+:white_check_mark:3.0 należy stworzyć po stronie serwerowej osobny serwis do łącznia z
+chatGPT</br>
+[Link do commita](https://github.com/lukasz-malec/E-biznes/commit/931321b7d4f0c31ac5c75091b552f56709bb0e3b)</br></br>
+❌3.5 należy połączyć serwis z interfejsem frontendowym via serwis w
+Kotlinie (zadanie 3) - discord + JS</br>
+❌4.0 stworzyć listę 5 różnych otwarć oraz zamknięć rozmowy</br>
+❌4.5 filtrowanie po zagadnieniach związanych ze sklepem (np.
+ograniczenie się jedynie do ubrań oraz samego sklepu) do GPT</br>
+❌5.0 filtrowanie odpowiedzi po sentymencie</br>
+
+Można wykorzystać lokalny model przez ollama (https://ollama.com/).
+https://github.com/user-attachments/assets/3be04d9f-a9f2-4fb6-ba24-f13841daee12
 
 
