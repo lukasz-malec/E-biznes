@@ -177,8 +177,12 @@ dodać widżety sonarowe do README w repozytorium dane projektu z
 wynikami.</br>
 
 Repozytoria powstały na bazie zadania 5 (klient oraz serwer):</br>
-[Repo klienta](https://github.com/lukasz-malec/Ebiznes_Client)</br>
+
+## BADGE są dostępne w repo serwera
 [Repo serwera](https://github.com/lukasz-malec/Ebiznes_Serwer/tree/main)</br></br>
+[Repo klienta](https://github.com/lukasz-malec/Ebiznes_Client)</br>
+
+
 :white_check_mark: 3.0 Należy dodać litera do odpowiedniego kodu aplikacji serwerowej w
 hookach gita</br>
 [Link do commita](https://github.com/lukasz-malec/Ebiznes_Serwer/commit/ed50644c33aebd012dd4d6a070471513edbb388c)</br></br>
