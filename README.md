@@ -47,8 +47,7 @@ Kontrolery mogą bazować na listach zamiast baz danych. CRUD: show all,
 show by id (get), update (put), delete (delete), add (post).
 
 
-Demo: [Link do nagrania](https://github.com/lukasz-malec/E-biznes/blob/main/ZADANIE2/scala_nagranie.mp4)
-
+https://github.com/user-attachments/assets/4a1977e0-948a-4dcb-bedb-7fc6b2526012
 ##
 
 Zadanie 3 Kotlin
@@ -70,7 +69,8 @@ Aplikację należy uruchomić na dockerze.
 
 Termin: 8.04
 
-Demo: [Link do nagrania](https://github.com/lukasz-malec/E-biznes/tree/main/ZADANIE3/nagranie)
+
+https://github.com/user-attachments/assets/679e9378-65ac-4380-a1d4-e3f5df7a7fd7
 
 ## 
 
@@ -102,6 +102,7 @@ a produktem
 Termin: 15.04
 
 
+https://github.com/user-attachments/assets/4aa2e25f-7f43-4a8b-8661-76ef589b9783
 
 ## 
 Zadanie 5 Frontend
@@ -224,6 +225,7 @@ Klucz należy uzyskać na:
 - https://console.cloud.google.com/apis/dashboard,
 - https://developers.facebook.com/
 
+https://github.com/user-attachments/assets/2a2f88f4-b9fa-4a4b-bee0-1f739ff01e2e
 
 
 
