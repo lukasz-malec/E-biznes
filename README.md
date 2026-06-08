@@ -268,9 +268,9 @@ aplikacji (np. via fatjar)</br>
 [Link do commita](https://github.com/lukasz-malec/Ebiznes_Serwer/commit/ccb89e63c55b7b336bbb75bc0c9a9ef9aeeac8df)</br></br>
 :white_check_mark:4.0 Dodać notyfikację mailową o wynikach z sonara</br>
 [Link do commita](https://github.com/lukasz-malec/Ebiznes_Serwer/commit/8eb80b1aef9d45677e28c3a509dc8ba3b0de7e37)</br></br>
-4.5 Dodać krok z deploymentem aplikacji klienckiej na chmurę (obie ze
+❌4.5 Dodać krok z deploymentem aplikacji klienckiej na chmurę (obie ze
 sobą rozmawiają)</br>
-5.0 Dodać uruchomienie regresyjnych testów automatycznych
+❌5.0 Dodać uruchomienie regresyjnych testów automatycznych
 (funkcjonalnych) jako krok w Actions w Browserstacku</br>
 
 
