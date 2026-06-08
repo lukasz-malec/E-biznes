@@ -260,8 +260,9 @@ Można wykorzystać lokalny model przez ollama (https://ollama.com/).
 ## 
 Zadanie 10
 
-3.0 Należy stworzyć odpowiednie instancje po stronie chmury na
+:white_check_mark: 3.0 Należy stworzyć odpowiednie instancje po stronie chmury na
 dockerze</br>
+[Link do commita](https://github.com/lukasz-malec/Ebiznes_Serwer/commit/78790502e750b3723f9d1c071c91b50174907b9c)</br></br>
 3.5 Stworzyć odpowiedni pipeline w Github Actions do budowania
 aplikacji (np. via fatjar)</br>
 4.0 Dodać notyfikację mailową o wynikach z sonara</br>
