@@ -263,8 +263,9 @@ Zadanie 10
 :white_check_mark: 3.0 Należy stworzyć odpowiednie instancje po stronie chmury na
 dockerze</br>
 [Link do commita](https://github.com/lukasz-malec/Ebiznes_Serwer/commit/78790502e750b3723f9d1c071c91b50174907b9c)</br></br>
-3.5 Stworzyć odpowiedni pipeline w Github Actions do budowania
+:white_check_mark:3.5 Stworzyć odpowiedni pipeline w Github Actions do budowania
 aplikacji (np. via fatjar)</br>
+[Link do commita](https://github.com/lukasz-malec/Ebiznes_Serwer/commit/ccb89e63c55b7b336bbb75bc0c9a9ef9aeeac8df)</br></br>
 4.0 Dodać notyfikację mailową o wynikach z sonara</br>
 4.5 Dodać krok z deploymentem aplikacji klienckiej na chmurę (obie ze
 sobą rozmawiają)</br>
