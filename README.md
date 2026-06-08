@@ -202,6 +202,7 @@ https://golangci-lint.run/ </br>
 https://github.com/pinterest/ktlint </br>
 https://scalameta.org/scalafmt/docs/installation.html </br>
 
+https://github.com/user-attachments/assets/578b6a67-d4e4-41b4-87d6-f879ef335869
 
 ## 
 Zadanie 8
