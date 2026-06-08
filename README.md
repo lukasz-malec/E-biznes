@@ -272,3 +272,6 @@ aplikacji (np. via fatjar)</br>
 sobą rozmawiają)</br>
 5.0 Dodać uruchomienie regresyjnych testów automatycznych
 (funkcjonalnych) jako krok w Actions w Browserstacku</br>
+
+
+https://github.com/user-attachments/assets/ace88204-5ff1-4bb5-be9f-6d1c6c9d46a4
